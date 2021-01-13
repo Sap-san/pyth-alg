@@ -1,1 +1,1 @@
-# python-alg
+# pyth-alg
